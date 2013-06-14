@@ -5,8 +5,11 @@ docpad-plugin-facebookcomments
 
 Modeled after [docpad-plugin-services](https://github.com/docpad/docpad-plugin-services). By [@mikeumus](http://twitter.com/mikeumus) of [MDM](http://massdistributionmedia.com/)
 
+#### What Facebook Comments?
+These Facebook Comments!: [https://developers.facebook.com/docs/reference/plugins/comments/](https://developers.facebook.com/docs/reference/plugins/comments/)
+
 #### It comes with options!
-Arugments must do in this order: @getFacebookComments(1010,'dark',100, 'time')
+Arugments must go in this order: @getFacebookComments(1010,'dark',100, 'time')
  - width option: supports only numbers, no '30px' or '100%'
  - colorscheme options: 'light' or 'dark' 
  - order_by options: 'social', 'reverse_time', 'time'. Default: 'social'
