@@ -1,9 +1,9 @@
 docpad-plugin-facebookcomments
 ==============================
 
-@getFacebookComments() for Docpad !
+@getFacebookComments() for [Docpad](http://docpad.org/) !
 
-Modeled after [docpad-plugin-services](https://github.com/docpad/docpad-plugin-services). By @mikeumus of [MDM](http://massdistributionmedia.com/)
+Modeled after [docpad-plugin-services](https://github.com/docpad/docpad-plugin-services). By [@mikeumus](http://twitter.com/mikeumus) of [MDM](http://massdistributionmedia.com/)
 
 #### It comes with options!
 Arugments must do in this order: @getFacebookComments(1010,'dark',100, 'time')
