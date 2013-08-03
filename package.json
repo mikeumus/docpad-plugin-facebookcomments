@@ -1,6 +1,6 @@
 {
   "name": "docpad-plugin-facebookcomments",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "description": "Facebook Comments feature.",
   "homepage": "https://github.com/mikeumus/docpad-plugin-facebookcomments",
   "keywords": [
@@ -36,8 +36,15 @@
     "url": "https://github.com/mikeumus/docpad-plugin-facebookcomments.git"
   },
   "engines": {
-    "node": ">=0.8.x",
-    "docpad": ">=6.25"
+    "node": ">=0.4"
+  },
+  "dependencies": {},
+  "peerDependencies": {
+    "docpad": ">=6.46 <7"
+  },
+  "devDependencies": {
+    "coffee-script": "~1.6.2",
+    "docpad": ">=6.46 <7"
   },
   "main": "./facebookcomments.plugin.coffee"
 }
